@@ -139,3 +139,5 @@
 ## Reference
 
 Refer to the screenshots in the screenshots folder as general design guidelines.
+
+- @context/screenshots/main-dashboard-screen.png
