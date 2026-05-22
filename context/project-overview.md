@@ -135,3 +135,7 @@
     - Description
     - Edit/Save button (turns all fields to editable with auto-save feature)
     - Delete button (with confirmation dialog)
+
+## Reference
+
+Refer to the screenshots in the screenshots folder as general design guidelines.
